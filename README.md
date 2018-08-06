@@ -11,9 +11,9 @@
 
 **Curious about what it means to play with GPUs, malware or human trafficking data, random forests, and giant graphs? And know just enough Python to be dangerous?** Or, just want to score some easy AI Village CTF points for a few hours, meet some data hackers, and maybe score a badge?
 
-Stop by the Intro to Data Masterclasses for an accessible way to get started with modern data science for security data. Leo (founder @ Graphistry) and Eugene (Dir. Security @ Ultimate Software)  will walk through interactive tutorials on core areas of modern data workflows: Wrangling data, classifying data, and exploring graphs / anomalies. 
+Stop by the Intro to Data Masterclasses for an accessible way to get started with modern data science for security data. Leo (founder @ Graphistry) and [Eugene](https://temasek.org) (Director of Security @ Ultimate Software) will walk through interactive tutorials on core areas of modern data workflows: Wrangling data, classifying data, and exploring graphs / anomalies. 
 
-We’ll be using real examples from human trafficking and malware datasets.  Only basic Python scripting experience is needed. Ahead of time, we recommend preparing a pydata notebook environment. None of the sessions depend on the other, though if you are unfamiliar with Pandas, we recommend at least skimming that session before the other ones. During the sessions, you can follow along with others, hack on your own, and/or explore with a partner. After, we’ll hang out for Q&A.
+We’ll be using real examples from human trafficking, malware, and DGA datasets.  Only basic Python scripting experience is needed. Ahead of time, we recommend preparing a pydata notebook environment. None of the sessions depend on the other, though if you are unfamiliar with Pandas, we recommend at least skimming that session before the other ones. During the sessions, you can follow along with others, hack on your own, and/or explore with a partner. After, we’ll hang out for Q&A.
 
 ## What
 
