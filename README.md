@@ -1,5 +1,12 @@
 # AI Village: Intro to Data Masterclass at Def Con 2018!
 
+
+
+<p float="left">
+   <img src="graph.png" height="250">
+  <img src="sticker.png" height="200">
+</p>
+
 ## What the?
 
 **Curious about what it means to play with GPUs, malware or human trafficking data, random forests, and giant graphs? And know just enough Python to be dangerous?** Or, just want to score some easy AI Village CTF points for a few hours, meet some data hackers, and maybe score a badge?
@@ -40,5 +47,10 @@ One of the most useful applications of ML is supervised classification. With a b
 ### Saturday 6p: Graphs & Anomalies - Understanding trafficking & malware events with GPU visual analytics & dimensionality reduction
 
 Understanding large datasets or those with all sorts of columns, such as we see with security and fraud logs, can be a daily struggle. Many data projects start with just trying to figure out what’s in there. When items do pop out, we may want to then ask how they’re related. Graph and clustering algorithms are powerful yet easy ways to understand large amounts of high-dimensional data. These techniques are often used as part of building anomaly detectors. In this session, we’ll look at network security and human trafficking data to spot and understand outliers. We’ll walk through how to quickly use UMAP algorithms, hypergraph modeling and graph querying, GPU visualization, and more.
+
+
+<img src="tablecloth.jpg">
+
+
 
 
